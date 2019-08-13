@@ -4,7 +4,7 @@ import router from "./router";
 import store from "./store";
 
 Vue.config.productionTip = false;
-
+// implementing store and router file
 new Vue({
   router,
   store,
